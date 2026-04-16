@@ -2,7 +2,7 @@
 
 This repository is part of the `0AI` company portfolio operated by Johnny Watters (`0ai-Cyberviser`).
 
-For general questions or portfolio contact:
+For general support or portfolio contact:
 
 - 0ai@cyberviserai.com
 - cyberviser@proton.me
@@ -13,4 +13,4 @@ Public GitHub accounts in this portfolio:
 - `cyberviser`
 - `cyberviser-dotcom`
 
-For project-specific support, use the repository documentation and issue tracker when appropriate.
+Use the repository issue tracker for public, non-sensitive questions when appropriate.
